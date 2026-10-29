@@ -1,4 +1,13 @@
-#aboutMeText {
-  text-align: left;
-  background-color: B4CBEF;
+body {
+  background-color: #5D85C5;
+}
+
+.container {
+  display: flex;
+  background-color: #B4CBEF;
+}
+
+.container div {
+  background-color: #84A6DC;
+  padding: 5px;
 }
